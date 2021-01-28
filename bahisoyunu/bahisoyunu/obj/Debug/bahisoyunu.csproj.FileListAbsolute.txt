@@ -1,0 +1,10 @@
+C:\Users\alibs\source\repos\bahisoyunu\bahisoyunu\bin\Debug\bahisoyunu.exe.config
+C:\Users\alibs\source\repos\bahisoyunu\bahisoyunu\bin\Debug\bahisoyunu.exe
+C:\Users\alibs\source\repos\bahisoyunu\bahisoyunu\bin\Debug\bahisoyunu.pdb
+C:\Users\alibs\source\repos\bahisoyunu\bahisoyunu\obj\Debug\bahisoyunu.csprojAssemblyReference.cache
+C:\Users\alibs\source\repos\bahisoyunu\bahisoyunu\obj\Debug\bahisoyunu.Form1.resources
+C:\Users\alibs\source\repos\bahisoyunu\bahisoyunu\obj\Debug\bahisoyunu.Properties.Resources.resources
+C:\Users\alibs\source\repos\bahisoyunu\bahisoyunu\obj\Debug\bahisoyunu.csproj.GenerateResource.cache
+C:\Users\alibs\source\repos\bahisoyunu\bahisoyunu\obj\Debug\bahisoyunu.csproj.CoreCompileInputs.cache
+C:\Users\alibs\source\repos\bahisoyunu\bahisoyunu\obj\Debug\bahisoyunu.exe
+C:\Users\alibs\source\repos\bahisoyunu\bahisoyunu\obj\Debug\bahisoyunu.pdb
